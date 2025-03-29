@@ -79,6 +79,7 @@
     table.local_usb,
     table.tablesorter.shift,
     table.dashboard > tbody,
+    table.preclear,
     div.title.disable_diskio,
     div.title.ud {
         max-width: 100%;
